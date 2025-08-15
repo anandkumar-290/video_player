@@ -1,5 +1,3 @@
-I'm glad the code is working for you! Here's a professional and clear README file tailored for your video player app, ready for your Git repository.
-
 🎬 Video Player App
 Overview
 This is a modern Android video player application built using Jetpack Compose for a beautiful and declarative UI. The app allows users to browse videos on their device, view them by folder, and play them in a dedicated video player screen. It's designed with a clean architecture using Hilt for dependency injection and Kotlin Flows for reactive data handling.
